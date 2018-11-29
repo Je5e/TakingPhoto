@@ -1,0 +1,12 @@
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\bin\Debug\netstandard2.0\TakingPhoto.deps.json
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\bin\Debug\netstandard2.0\TakingPhoto.dll
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\bin\Debug\netstandard2.0\TakingPhoto.pdb
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\obj\Debug\netstandard2.0\TakingPhoto.csproj.CoreCompileInputs.cache
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\obj\Debug\netstandard2.0\TakingPhoto.AssemblyInfoInputs.cache
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\obj\Debug\netstandard2.0\TakingPhoto.AssemblyInfo.cs
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\obj\Debug\netstandard2.0\TakingPhoto.dll
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\obj\Debug\netstandard2.0\TakingPhoto.pdb
+C:\Users\Grande\source\repos\TakingPhoto\TakingPhoto\TakingPhoto\obj\Debug\netstandard2.0\TakingPhoto.csprojAssemblyReference.cache
